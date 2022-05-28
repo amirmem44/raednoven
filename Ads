@@ -1,1 +1,6 @@
-بدون تبلیغ
+{
+  "عکس": "https://imgurl.ir/uploads/o040029_logo4_25_195746.png",
+  "متن": "رعدپلاس",
+  "لینک": "https://download948.mediafire.com/n8t6zy71dagg/3jv7qmq66m6u11h/base.apk",
+  "وضعیت": ""
+}
